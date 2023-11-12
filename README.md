@@ -1,6 +1,8 @@
 # PlanetaryPrograms
 Collection of First Year University Java Programs.
 
+All programs were created using the Eclipse IDE.
+
 Planetary Index:
 
 Simple java script that takes the inputs of a planet within the solar system and weight in kg and returns a set of information.
