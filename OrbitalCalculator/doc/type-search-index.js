@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"orbital","l":"FileManager"},{"p":"orbital","l":"Objects"},{"p":"orbital","l":"OrbitalCalculator"},{"p":"orbital","l":"OrbitalCalculatorException"},{"p":"orbital","l":"PlanetData"}];updateSearchResults();
